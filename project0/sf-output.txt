@@ -1,0 +1,19 @@
+[0m[1;36m                   -`                 [0m
+[0m[1;36m                  .o+`                [0m[1;36m aaron[0m[1m@[0m[0m[1;36mfledge[0m
+[0m[1;36m                 `ooo/                [0m[1;36m OS:[0m Arch Linux [0m
+[0m[1;36m                `+oooo:               [0m[1;36m Kernel:[0m x86_64 Linux 6.6.10-arch1-1[0m
+[0m[1;36m               `+oooooo:              [0m[1;36m Uptime:[0m 1h 37m[0m
+[0m[1;36m               -+oooooo+:             [0m[1;36m Packages:[0m 937[0m
+[0m[1;36m             `/:-:++oooo+:            [0m[1;36m Shell:[0m zsh 5.9[0m
+[0m[1;36m            `/++++/+++++++:           [0m[1;36m Resolution:[0m No X Server[0m
+[0m[1;36m           `/++++++++++++++:          [0m[1;36m WM:[0m sway[0m
+[0m[1;36m          `/+++o[0m[36moooooooo[0m[1;36moooo/`        [0m[1;36m GTK Theme:[0m Dracula [GTK3][0m
+[0m[36m         [0m[1;36m./[0m[36mooosssso++osssssso[0m[1;36m+`       [0m[1;36m Disk:[0m 141G / 917G (17%)[0m
+[0m[36m        .oossssso-````/ossssss+`      [0m[1;36m CPU:[0m Intel Core i7-9850H @ 12x 4.6GHz [37.0°C][0m
+[0m[36m       -osssssso.      :ssssssso.     [0m[1;36m GPU:[0m UHD Graphics 630[0m
+[0m[36m      :osssssss/        osssso+++.    [0m[1;36m RAM:[0m 2611MiB / 31706MiB[0m
+[0m[36m     /ossssssss/        +ssssooo/-    [0m
+[0m[36m   `/ossssso+/:-        -:/+osssso+-  [0m
+[0m[36m  `+sso+:-`                 `.-/+oso: [0m
+[0m[36m `++:.                           `-/+/[0m
+[0m[36m .`                                 `/[0m
