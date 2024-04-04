@@ -1,0 +1,9 @@
+Flag{WEBCTF_Sniff_Sniff}
+Flag{WebCTF_Admin_Pwnage}
+Flag{WEBCTF_Google_The_1337HAxor}
+Flag{WebCTF_XSS?_2EZ!}
+Flag{WEBCTF_Insert_SQL_HERE_xD}
+Flag{WEBCTF_Back_To_Future!}
+Flag{WEBCTF_Burrrrrrrrrrrrrp!}
+Flag{WEBCTF_Side_Channels_Are_Real!}
+WEBCTF_Kh0ury_i5_K00L
